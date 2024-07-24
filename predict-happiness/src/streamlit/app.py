@@ -1,7 +1,7 @@
 # app.py
 import streamlit as st
 import pandas as pd
-import catboost
+#import catboost
 from catboost import CatBoostRegressor
 # import joblib
 import pickle as pk
